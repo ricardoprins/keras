@@ -1,4 +1,4 @@
-# Keras 3: Deep Learning for Humans
+# Keras 3: Deep Learning for Humans!
 
 Keras 3 is a multi-backend deep learning framework, with support for TensorFlow, JAX, and PyTorch.
 
